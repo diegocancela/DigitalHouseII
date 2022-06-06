@@ -17,6 +17,7 @@ h2 {
     font-size: 20px;
     line-height: 84.69%;
     color: #005677;
+    background-color: #C4C4C4;
 }
 
 .cursiva {
@@ -37,4 +38,8 @@ footer {
 
 i {
     color: #FFFFFF;
+}
+
+header{
+    text-align: center;
 }
